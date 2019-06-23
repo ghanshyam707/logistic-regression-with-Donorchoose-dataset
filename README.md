@@ -13,6 +13,6 @@ Then LR is applied on all 4 datasets.<br>
 
 <b> Conclusion after applying LR to all datasets </b><br>
 
-`LR` is able to predict fund approval for project with 0.72 AUC score with `Set 2`. With `1/3` point is miss classified as `False positive` and `1/2` points are miss classified as `False Negative`.
+`LR` is able to predict fund approval for project with 0.72 `AUC score` with `Set 2`. With `1/3` point is miss classified as `False positive` and `1/2` points are miss classified as `False Negative`.
 
 ##### Credits : www.AppliedAICourse.com
